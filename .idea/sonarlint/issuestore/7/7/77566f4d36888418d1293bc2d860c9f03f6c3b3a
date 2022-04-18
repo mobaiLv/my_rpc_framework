@@ -1,0 +1,10 @@
+
+b	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(™‚Ù¼8‘·„ù/
+c
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(ÑäÖŸûÿÿÿÿ8‘·„ù/
+H
+java:S1075N"&Remove this hard-coded path-delimiter.(¯ÿ¯ÿÿÿÿÿ8”‘·„ù/
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8—‘·„ù/
+I
+java:S1075‹"&Remove this hard-coded path-delimiter.(¯ÿ¯ÿÿÿÿÿ8˜‘·„ù/

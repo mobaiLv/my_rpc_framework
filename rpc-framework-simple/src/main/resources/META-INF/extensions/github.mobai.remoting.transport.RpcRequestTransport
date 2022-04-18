@@ -1,0 +1,1 @@
+netty=github.mobai.remoting.transport.netty.client.NettyRpcClient

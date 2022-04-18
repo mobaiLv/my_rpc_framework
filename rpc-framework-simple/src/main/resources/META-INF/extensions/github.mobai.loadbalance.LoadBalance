@@ -1,0 +1,2 @@
+random=github.mobai.loadbalance.loadbalancer.RandomLoadBalance
+consistentHash=github.mobai.loadbalance.loadbalancer.ConsistentHashLoadBalance
